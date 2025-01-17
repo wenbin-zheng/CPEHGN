@@ -26,9 +26,10 @@ import utils.data_preprocess_weibo as data_preprocess
 
 ### Dependencies
 
-1. [Python = 3.12.4](https://www.python.org/)
-2. [torch = 2.3.1](https://pytorch.org/get-started/locally/)
-4. [transformers = 4.6.0](https://huggingface.co/docs/transformers/installation)
+- Python=3.12.4
+- PyTorch=2.3.1
+- Torchvision=0.18.1
+- Transformers=4.6.0
 
 
 ### Run the code
