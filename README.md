@@ -36,5 +36,5 @@ import utils.data_preprocess_weibo as data_preprocess
 run ```main.py ```
 
 ## Reference
-Thanks for their great work
+Thanks to their great works
 * [MINER-UVS](https://github.com/wangbing1416/MINER-UVS)
